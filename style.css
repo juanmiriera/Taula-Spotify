@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    border: 0px;
+    border-collapse: collapse;
+}
+
+.tabla {
+    width: 100%;
+    text-align: left;
+    background-color: rgba(0, 0, 0, 0.87);
+    color: rgba(255, 255, 255, 0.644);
+    margin: 20px;
+    margin-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+th {
+    height: 30px;
+    background: rgba(26, 131, 117, 0.226);
+    color: white;
+}
+
+.dato:hover {background-color: #ffffff56;}
+
+strong {
+    margin-left: 20px;
+    color: white;
+}
+
+small {
+    margin-left: 20px;
+}
+
+.albumes {
+    float: left;
+}
+
+.numeros {
+    font-weight: bolder;
+    text-align: center;
+    color: white;
+}
